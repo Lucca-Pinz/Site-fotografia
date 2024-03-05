@@ -1,0 +1,44 @@
+.about-me{
+    margin-top: 49rem;
+    background-color: var(--text);
+
+    width: 100%;
+    height: 100vh;
+
+    inset: 0;
+
+    
+}
+
+.container-about{
+   
+}
+
+.about-up{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+h2{
+    font-size: 2rem;
+    font-weight: 900;
+    color: var(--black);
+}
+
+.text p{
+    font-size: 1.3rem;
+    color: var(--black);
+}
+
+.about-down{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.about-down p{
+    font-size: 1.3rem;
+    color: var(--black);
+}
